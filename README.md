@@ -13,4 +13,4 @@ We experimented with unique feature extraction methods that are less common in e
 Multiple clustering algorithms were tested, including K-Means++, Fuzzy C-means, etc. Their performance was evaluated based on four clustering validity indexes to ensure robustness in the results.
 
 ## Cluster Analysis
-The final part of the analysis involved applying K-Means++ clustering to identify 6 distinct clusters, providing insights into the varying energy consumption patterns among the households.
+The final part of the analysis involved applying Ensemble clustering to identify 6 distinct clusters, providing insights into the varying energy consumption patterns among the households.
