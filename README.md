@@ -1,7 +1,7 @@
 # Energy Consumption Clustering Analysis in London Households
 
 ## Overview
-This repository hosts the code and methodology used in my thesis project, which focuses on the analysis of energy consumption patterns in 5,567 London households. The project aims to explore novel feature extraction techniques and evaluate their effectiveness in identifying distinct consumption patterns.
+This repository hosts the code and methodology, which focuses on the analysis of energy consumption patterns in 5,567 London households. The project aims to explore novel feature extraction techniques and evaluate their effectiveness in identifying distinct consumption patterns.
 
 ## Data Set
 The analysis is based on an open-source dataset of energy consumption from London households. It can be found here: [https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households?fbclid=IwAR1H0_wGe8h-sgTUUKwL4B8GUixNBtLcKs8b-PqzupFA6IdHGO2737qLOOI]
